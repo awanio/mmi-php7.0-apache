@@ -1,0 +1,6 @@
+version: '2'
+
+web:
+  type: php
+  version: 7.0
+  doc_root: ./public
